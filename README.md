@@ -1,13 +1,13 @@
 # Blob-Detection-Challenge-Problem
 
 If we have a data set like this:
-O O O O X O O O O
-O O X X O O O O O
-X X X X O O O O X
-O O O X O O O X X
-O O X X X O O X O
-O X X O O O X O O
-O X X X X X O O O
+O O O O X O O O O/n
+O O X X O O O O O/n
+X X X X O O O O X/n
+O O O X O O O X X/n
+O O X X X O O X O/n
+O X X O O O X O O/n
+O X X X X X O O O/n
 
 The premise of the problem is to find the biggest chunk of X's and the biggest chunk of O's.
 Chunks are defined as X's or O's that are touching in the 4 cardinal directions (ie up, down, left, and right).
