@@ -1,4 +1,4 @@
-# Blob-Detection-Challenge-Problem
+# Chunk-Detection-Challenge-Problem
 
 If we have a data set like this:  
 ```O O O O X O O O O  
