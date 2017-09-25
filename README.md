@@ -1,5 +1,6 @@
 # Chunk-Detection-Challenge-Problem
 
+## Problem Description
 If we have a data set like this:  
 ```O O O O X O O O O  
 O O X X O O O O O  
@@ -27,4 +28,13 @@ O X X
 ```
 The output will be
 {'X': 3, 'O': 3}
+
+## My solution
+
+My solution is writen in python 2.7 and utalizes the Depth First Search algorithm modified to work on a 2D array.
+
+Included with my solution is also the test files that I used and a test suite also writen in python.
+
+To run the code just download the source code and in command line  
+\>python blob_detection.py {test_file.txt}
 
